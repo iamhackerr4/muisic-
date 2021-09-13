@@ -5,8 +5,8 @@
   "youtubeCookie": "",
   "spotify_api": {
         "enabled": true, "_COMMENT_": "Set it to false, if you want to scrape, when on true you can get spotify playlists with 100+ Tracks",
-        "clientSecret": "",
-        "clientId": ""
+        "clientSecret": "662492fa51644345b169eeae8d7a6700",
+        "clientId": "5f93f0378ebb4cae8a24bb4fafd4e2bc"
   },
   "loadSlashsGlobal": true, "_COMMENT_": "Set it to true, when your Slash Commands are ready, false loads instant true loads slow but stable! (GLOBAL/GUILD COMMANDS, DISCORD DOCS!)"
 }
